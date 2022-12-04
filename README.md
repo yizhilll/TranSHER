@@ -2,7 +2,9 @@
 
 Codes for the paper [TranSHER: Translating Knowledge Graph Embedding with Hyper-Ellipsoidal Restriction](https://arxiv.org/abs/2204.13221) accepted by the EMNLP 2022.
 
-![image-20221204182413497](README.assets/image-20221204182413497.png)
+<p align="center">
+  <img src="README.assets/image-20221204182413497.png" alt="image-20221204182413497"  />
+</p>
 
 # Preparation
 
@@ -80,19 +82,37 @@ TBD
 
 ### Relation-specific Translation Visualization
 
-![image-20221204182243782](README.assets/image-20221204182243782.png)
+<p align="center">
+<img src="README.assets/image-20221204182243782.png" alt="image-20221204182243782" style="zoom:50%;" />
+</p>
 
 #### Standard Variance of Training Gradients
 
-![image-20221204182315229](README.assets/image-20221204182315229.png)
+<p align="center">
+<img src="README.assets/image-20221204182315229.png" alt="image-20221204182315229" style="zoom:50%;" />
+</p>
+
+
+
+
 
 ### Initialization Strategies
 
-![image-20221204182206395](README.assets/image-20221204182206395.png)
+<p align="center">
+<img src="README.assets/image-20221204182206395.png" alt="image-20221204182206395" style="zoom:50%;" />
+</p>
+
+
+
+
 
 ### Case Study
 
-![image-20221204182120598](README.assets/image-20221204182120598.png)
+<p align="center">
+<img src="README.assets/image-20221204182120598.png" alt="image-20221204182120598" style="zoom:50%;" />
+</p>
+
+
 
 
 
